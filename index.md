@@ -26,7 +26,9 @@ This course not only focuses on tools, but on how these tools can become a part 
 
 ##Syllabus
 
-[Objects](objects.html)
+[Objects](/)
+
+<!-- [Objects](objects.html) -->
 
 [Environment](/)
 
