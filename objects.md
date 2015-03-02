@@ -34,5 +34,28 @@ Following your OO obervations, formalise your (paper) descriptions using the **U
 
 - [online UML editor](http://www.gliffy.com/uses/uml-software/) (note: please take screen shots of your UML design)
 
+Questions:
+
+1. Do you think the UML translates well your observation?
+2. Do you understand the difference between UML's attribute and method?
+3. Is your UML diagram readable?
+
+
+#### C. OO Programming
+
+Now that you have created a simple UML diagram of your objects, translate this diagram into code using a _class_.
+
+	class Name {
+		...
+	};
+
+Questions:
+
+1. How does your class relate to your UML diagram?
+2. How does your class relate to your paper observation?
+3. Was it easy to translate your UML diagram into code? What was ambiguous? What was not?
+3. Is your class readable?
+
+### Object Oriented Programming II: Polymorphism and Inheritance
 
 
