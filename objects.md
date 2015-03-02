@@ -12,6 +12,7 @@ title: Objects
 
 ### Object Oriented Programming I: Class and Objects
 
+<! --
 #### A. [OO-NotePad](img/OO-NotePad.pdf)
 
 Using the _OO-NotePad_ sheet, observe four (4) objects in your surrounding and formally describe them usign the following descriptors:
@@ -56,6 +57,8 @@ Questions:
 2. How does your class relate to your paper observation?
 3. Was it easy to translate your UML diagram into code? What was ambiguous? What was not?
 3. Is your class readable?
+
+-->
 
 ### Object Oriented Programming II: Polymorphism and Inheritance
 
