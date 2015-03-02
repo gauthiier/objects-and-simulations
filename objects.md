@@ -22,4 +22,11 @@ Using the _OO-NotePad_ sheet, observe four (4) objects in your surrounding and f
 	+ Static -- an attribute that does not change (much) over time
 	+ Dynamic -- an attribute that changes aspect over time
 
+Questions:
+
+1. Is there an atribute that is common to all (or some) of your objects?
+2. Do you see any familiarity between your objects?
+3. Is there any hierarchical realtionship(s) that could be devise between your objects?
+
+
 
