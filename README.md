@@ -1,1 +1,1 @@
-Amsterdam Comics Conference's site source -- amsterdamcomics.com
+Course focusing on basic concepts and techniques of object oriented programming and graphical computer simulations.
