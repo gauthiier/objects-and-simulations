@@ -1,0 +1,47 @@
+body {
+	font-family: questrial, sans-serif;
+	font-size:0.95em;
+	line-height: 1.5;
+	color: #f7f7f7;
+	background-color: #1744fa;
+}
+
+
+a:link {color: #f7f7f7; text-decoration: underline; }
+a:active {color: #f7f7f7; text-decoration: underline; }
+a:visited {color: #f7f7f7; text-decoration: underline; }
+
+
+content {
+    padding: 1.5em;
+    max-width: 45em;
+    display: block;
+    overflow:hidden;
+    text-align: justify;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+content img {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+
+content #draw_canvas {
+	display: block;
+	margin: 0 auto;
+	width: 45em;
+	height: 13em;
+	border: 1px solid #aaaaaa;
+}
+
+
+.noir {
+	xborder: 1px solid black;
+}
+
+.rouge {
+	xborder: 1px solid red;
+}

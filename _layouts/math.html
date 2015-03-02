@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Objects & Simulations</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/+++/le_style.css" media="screen"/>    
+    <script src="//use.edgefonts.net/questrial.js"></script>
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      asciimath2jax: {
+        delimiters: [['$','$'], ['`','`']],
+        skipTags: ["script","noscript","style","textarea","pre","code"]
+      },
+    });
+    </script>
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML-full" type="text/javascript"></script>
+
+  </head>
+  <body>
+    <content>
+      <div id="main" class="section">
+
+        {{ content }}
+
+      </div>
+    </content>
+  </body>
+</html>

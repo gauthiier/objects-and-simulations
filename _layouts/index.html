@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Objects & Simulations</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/+++/le_style.css" media="screen"/>    
+    <script src="//use.edgefonts.net/questrial.js"></script>
+    <script type="text/javascript" src="js/paper.js"></script>
+    <script type="text/javascript" src="js/paper-error.js"></script>
+    <script type="text/javascript" src="js/paper-agents.js"></script>
+    <script type="text/paperscript" canvas="draw_canvas">
+
+      for(var i = 0; i < 10; i++) {
+        
+        var randomAgent = new Agent(view.center);
+        randomAgent.addBehaviour(new Behaviour.RandomWalk());
+        randomAgent.addBehaviour(new Behaviour.Trace())
+
+        var creepyAgent = new Agent(view.center);
+        creepyAgent.addBehaviour(new Behaviour.FollowPoint(randomAgent.position));
+        creepyAgent.shape.fillColor = "#f7f7f7";        
+      }
+
+      function onFrame() {
+        
+      }
+
+  </script>
+
+  </head>
+  <body>
+    <content>
+      <div id="main" class="section">
+
+        {{ content }}
+
+      </div>
+    </content>
+  </body>
+</html>
