@@ -3,7 +3,7 @@ title: Objects & Simulations
 email: d@gauthiier.info
 description: Course focusing on basic concepts and techniques of object oriented programming and graphical computer simulations.
 baseurl: ""
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://gauthiier.github.io/objects-and-simulations" # the base hostname & protocol for your site
 github_username:  gauthiier
 
 # Build settings
