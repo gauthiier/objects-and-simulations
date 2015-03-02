@@ -28,5 +28,11 @@ Questions:
 2. Do you see any familiarity between your objects?
 3. Is there any hierarchical realtionship(s) that could be devise between your objects?
 
+#### B. OO Modeling
+
+Following your OO obervations, formalise your (paper) descriptions using the **U**nified **M**odeling **L**anguage (UML)
+
+- [online UML editor](http://www.gliffy.com/uses/uml-software/) (note: please take screen shots of your UML design)
+
 
 
