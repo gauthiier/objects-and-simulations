@@ -28,7 +28,7 @@ This course not only focuses on tools, but on how these tools can become a part 
 
 [Objects](objects.html)
 
-Environment - [Affine Transformatino](affine.html) and [Oscillatiors](/)
+Environment - [Affine Transformation](affine.html) and [Oscillators](/)
 
 [Simulation](/)
 
