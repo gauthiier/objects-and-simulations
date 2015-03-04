@@ -13,8 +13,6 @@ Spring spring;
 Creature t;
 Creature c;
 
-ArrayList<Creature> creatures = new ArrayList<Creature>();
-
 void setup() {  
   size(CANVAS_WIDTH, CANVAS_HEIGHT);
   background(23, 68, 250);
@@ -25,7 +23,7 @@ void setup() {
   // create a global drag
   ViscousDrag drag = new ViscousDrag();
   drag.coefficient = 0.25f;
-  physics.add(drag);  
+  //physics.add(drag);  
   
   t = new TriangleCreature((int)random(width), (int)random(height), 20);
   c = new CircleCreature((int)random(width), (int)random(height), 20);
@@ -33,6 +31,7 @@ void setup() {
   physics.add(t); physics.add(c);
   
   spring = physics.makeSpring(t, c);
+  
   spring.restlength(20);
   
 }

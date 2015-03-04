@@ -26,8 +26,8 @@ void setup() {
   
   // create attaractor
   attractor = new Attractor();
-  attractor.radius(50);
-  attractor.strength(200);
+  attractor.radius(150);
+  attractor.strength(1000);
   physics.add(attractor);
   
   // create all creatures
@@ -69,8 +69,7 @@ void draw() {
     fill(0, 255, 0, 35);    
   }
   
-  ellipse(attractor.position().x, attractor.position().y,
-  attractor.radius(), attractor.radius());
+  ellipse(attractor.position().x, attractor.position().y, attractor.radius(), attractor.radius());
 
 }
 
