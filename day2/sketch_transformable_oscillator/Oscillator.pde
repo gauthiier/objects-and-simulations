@@ -13,7 +13,7 @@ class Oscillator {
   
   public float update() {
     _theta += _step;
-    return (sin(_theta) *  _length / 2) + _length / 2; 
+    return (sin(_theta) *  (_length / 2)) + (_length / 2) + _min; 
   }
   
 }
