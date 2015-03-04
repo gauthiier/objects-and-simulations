@@ -1,4 +1,5 @@
 class Oscillator {
+  
   float _step, _theta;
   float _min, _max, _length;
   
