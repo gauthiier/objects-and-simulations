@@ -46,18 +46,14 @@ void draw() {
 
 }
 
-void mousePressed() {
+void keyPressed() {
   
-  Creature c = new TriangleCreature(mouseX, mouseY, 10);
+  Creature c = new TriangleCreature(random(width), random(height), 10);
   
   creatures.add(c);
   
   colony.add(c);
-  
-}
-
-void keyPressed() {
-  
+    
   // Inform the colony of the KEY pressed
   colony.event(key);
   
