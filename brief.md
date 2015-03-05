@@ -26,7 +26,7 @@ Teams of 2 (scientists).
 
 ## Bacteroid Base64
 
-![](img/base64.png)
+![](img/base64-w.png)
 
 1. Name: Bacteroid Base64
 2. Occurence: 1992
@@ -44,7 +44,7 @@ Teams of 2 (scientists).
 4. There will be _no_ gravity in the mikrowelt.
 5. All advanced Behaviors __must__ implement the interface __CreatureBehavior__. 
 6. The canvas size has to be of dimension 650 width X 650 height.
-7. The name of your creature class has to be the same has in you report.
+7. The name of your creature class has to be the same in you report.
 
 
 ## References
