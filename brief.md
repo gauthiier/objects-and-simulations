@@ -5,9 +5,9 @@ title: Project Brief
 
 #Micrographia der (digitalen) Mikrowelt
 
-During the course of this class, we have discovered a novel method to observe digital native microcreatures living in a multitude of digital devices. These creatures have been vaguely reported in scientific litterature over the last 20 years, yet out method is the first one able to graphicaly identify and catalogue them accurately. 
+During the course of this class, we have discovered a novel method to observe digital native microcreatures living in a multitude of digital devices. These creatures have been vaguely reported in scientific litterature over the last 20 years, yet our method is the first able to graphicaly identify and catalogue them accurately. 
 
-The brief is thus to develop a digital micrographia of these creatures, reporting on your novel observations, formalising the knowledge that is known about creatures of the digital microwelt.
+The brief is thus to develop a "digital micrographia" of these creatures, that is, reporting on your novel observations, formalising the knowledge you acquired about these microwelt creatures.
 
 You are asked to create __two__ micrographical reports of __two__ different creatures observed in the digital wild.
 
@@ -30,8 +30,8 @@ Teams of 2 (scientists).
 
 1. Name: Bacteroid Base64
 2. Occurence: 1992
-3. Where: Bacteroid Base64 was found in a defunct laptop found on train DSB D2344-B connecting Hamburg to Copenhagen. 
-4. Characteristics: Bacteroid Base64 displays traits of an tribe, nurturing itself in herds comprising up to hundreds of creatures. Its main nutriment are 16-bits memory sectors found in defunct Segate Hard Disk Drives (HDD).
+3. Where: Bacteroid Base64 was first observed in a defunct laptop found on train DSB D2344-B connecting Hamburg to Copenhagen. 
+4. Characteristics: Bacteroid Base64 displays traits of an tribe nurturing itself in herds comprising up to hundreds of creatures. Its main nutriment is 16-bits memory sectors found in defunct Seagate Hard Disk Drives (HDD).
 
 ---
 
