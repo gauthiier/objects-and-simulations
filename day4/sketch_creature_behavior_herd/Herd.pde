@@ -44,7 +44,6 @@ class Herd {
   class Herderer {    
     Creature creature;
     Separation separation;
-    Alignment alignment;
     Cohesion cohesion;
     Wander wander;
     Motor motor;

@@ -50,7 +50,15 @@ void draw() {
 
 void mousePressed() {
   
-  Creature c = new CircleCreature(mouseX, mouseY, 10);
+  float r = random(0, 3);
+  Creature c;
+  if(r < 1) {  
+    c = new CircleCreature(mouseX, mouseY, 10);
+  } else if(r < 2) {
+    c = new TriangleCreature(mouseX, mouseY, 15);
+  } else {
+    c = new SquareCreature(mouseX, mouseY, 20, 20);
+  }
   
   creatures.add(c);
   

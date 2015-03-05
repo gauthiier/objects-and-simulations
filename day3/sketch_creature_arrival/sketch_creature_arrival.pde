@@ -21,8 +21,8 @@ void setup() {
   physics.add(creature);
   
   arrival = new Arrival();
-  arrival.breakforce(creature.maximumInnerForce() * 0.25f);
-  arrival.breakradius(creature.maximumInnerForce() * 0.25f);
+  arrival.breakforce(creature.maximumInnerForce());
+  arrival.breakradius(creature.maximumInnerForce());
   
   creature.behaviors().add(arrival);  
   
