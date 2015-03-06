@@ -36,11 +36,12 @@ void draw() {
   background(23, 68, 250);
   stroke(255);
   noFill();
-  
+    
   for(int i = 0; i < creatures.size(); i++) {
     Creature c = creatures.get(i);
     c.display();
   }
+  
   
   collision.removeCollisionResolver();
 
@@ -48,7 +49,7 @@ void draw() {
 
 void keyPressed() {
   
-  Creature c = new TriangleCreature(random(width), random(height), 10);
+  Creature c = new TriangleCreature((int)random(width), (int)random(height), 10);
   
   creatures.add(c);
   
